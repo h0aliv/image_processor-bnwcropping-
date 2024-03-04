@@ -37,7 +37,6 @@ pillow version ：8.0 （ 支持 python 版本 3.6 - 3.9 ）
  b:将裁切后的图片统一分辨率在512*512
  c.将图片转换为灰度图
 
-3、独立完成此作业（十分重要）。
 
 4、测试代码：
 from image_nameProcessor import *
